@@ -1,6 +1,6 @@
 // Made by @Polycarbohydrate
 // https://github.com/polycarbohydrate/temperature-converter/
-// MIT LICENCE
+// MIT LISENCE
 // If you use this project or repost it somewhere else, please give credit by using the first 2 lines/comments.
 
 use std::io;
